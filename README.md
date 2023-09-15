@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SanikaThakur
-- 👀 I’m graduate student pursuing MS in Bioinformatics at Northeaste 
+- 👀 I’m graduate student pursuing MS in Bioinformatics at Northeastern University 
 - 🌱 I'm interested in Bioinformatics, Computational Biology, Machine Learning, AI
 - 🌱 I’m currently learning Data Science and Software Development
 - 💞️ I’m looking to collaborate on Healthcare Projects and applications
